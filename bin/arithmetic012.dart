@@ -3,7 +3,7 @@
 
 int soon(int a, int b) {
   int a = 2;
-  int b = 4;
+  int c = 4;
   return (a*a*a+b*b*b);
 }
 
