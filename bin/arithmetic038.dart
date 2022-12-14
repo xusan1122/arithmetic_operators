@@ -3,12 +3,12 @@
 
 import 'dart:math';
 
-double soon(int a, int b) {
+double func(int a, int b) {
   int a = 2;
   int b = 6;
   return (2*((pow(a, b))/(a+b)));
 }
 
 void main() {
-  print(soon(2,6));
+  print(func(2,6));
 }

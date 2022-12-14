@@ -2,7 +2,7 @@
 // the task condition is in the Readme file
 
 
-double soon(int a, int b, int c) {
+double func(int a, int b, int c) {
   int a = 1;
   int b = 11;
   int c = 4;
@@ -10,5 +10,5 @@ double soon(int a, int b, int c) {
 }
 
 void main() {
-  print(soon(1,11,4));
+  print(func(1,11,4));
 }
